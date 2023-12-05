@@ -70,6 +70,7 @@ The Snake class is the core component of the game, responsible for:
 ## Customization
 
 You can customize the game by editing constants in the main script:
+
 - Change game speed
 - Modify colors and visual elements
 - Adjust the game board size

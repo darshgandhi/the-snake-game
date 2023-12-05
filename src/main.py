@@ -1,7 +1,7 @@
 import pygame, random
-from snake import Snake
+from src.components.snake import Snake
 from food import Food
-from create_board import drawBoard
+from src.utils.create_board import drawBoard
 
 # WINDOW CONSTANTS
 FPS = 60

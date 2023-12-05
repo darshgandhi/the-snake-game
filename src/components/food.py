@@ -1,5 +1,5 @@
 import pygame, random
-from snake import Snake
+from src.components.snake import Snake
 
 FOOD_SIZE = 60
 SQAURE_SIZE = 80
