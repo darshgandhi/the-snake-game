@@ -78,3 +78,7 @@ You can customize the game by editing constants in the main script:
 ## Credits
 
 This game was created using Pygame, a set of Python modules designed for writing video games.
+
+## License
+
+This project is not licensed. You may use, copy, or modify the code at your own risk, but please respect the author's rights.
